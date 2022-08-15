@@ -1,0 +1,3 @@
+[submodule "alpaca.tv"]
+	path = alpaca.tv
+	url = https://github.com/digitaimadness/alpaca.tv
