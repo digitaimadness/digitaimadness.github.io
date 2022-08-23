@@ -1750,8 +1750,6 @@ http://192.168.1.2:6878/ace/getstream?id=caa3dad746d80a887e8a259f1c7c2eead749094
 http://192.168.1.2:6878/ace/getstream?id=da27959a3e9ee97647df5aadd056021099e2d845&.mp4
 #EXTINF:-1,AMAZON PRIME VIDEO 1 HD [BE] (sport)
 http://192.168.1.2:6878/ace/getstream?id=5323ccadb659f7d3cb5fa2e5835c5af362e144d6&.mp4
-#EXTINF:-1,AMAZON PRIME VIDEO 2 HD [BE] (sport)
-http://192.168.1.2:6878/ace/getstream?id=2926e34c63d83764f9c6671da53397d55041b4ea&.mp4
 #EXTINF:-1,AMAZON PRIME VIDEO 3 HD [BE] (sport)
 http://192.168.1.2:6878/ace/getstream?id=7b979c38e2565ea0ce4c6ec3c13f6edf05b0c08c&.mp4
 #EXTINF:-1,AMAZON PRIME VIDEO 4 HD [BE] (sport)
@@ -1816,8 +1814,6 @@ http://192.168.1.2:6878/ace/getstream?id=c811cde690d467a2e45d3c263c4f0960a3933d1
 http://192.168.1.2:6878/ace/getstream?id=49b734a5a3365674480089264be00ae28fabb640&.mp4
 #EXTINF:-1,M-1 Global [RU] (sport)
 http://192.168.1.2:6878/ace/getstream?id=a7e4499c869037073c97deb47a50d1e7090b1c04&.mp4
-#EXTINF:-1,NBA 1 [US] (sport)
-http://192.168.1.2:6878/ace/getstream?id=39db49bc89dcc3c8797566231f869dca57f1a47e&.mp4
 #EXTINF:-1,NBA TV [US] (sport)
 http://192.168.1.2:6878/ace/getstream?id=e72d03fb9694164317260f684470be9ab781ed95&.mp4
 #EXTINF:-1,Premier Sports 1 [UK] (sport)
