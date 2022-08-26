@@ -704,8 +704,6 @@ http://192.168.1.2:6878/ace/getstream?id=92b6ba09dae4bbb8a67a405125d08ca8d15380e
 http://192.168.1.2:6878/ace/getstream?id=0f40f5793250117fbc0dc7a824cdcd531a8de41c&.mp4
 #EXTINF:-1 group-title="regional" tvg-name="ProSieben_Maxx_HD_[DE]" tvg-logo="ProSieben Maxx HD [DE].png",ProSieben Maxx HD [DE]
 http://192.168.1.2:6878/ace/getstream?id=40d73c46051360ce2ba7b329725440dc74d485f2&.mp4
-#EXTINF:-1 group-title="regional" tvg-name="ProSiebenSat.1_4k_[DE]" tvg-logo="ProSiebenSat.1 4k [DE].png",ProSiebenSat.1 4k [DE]
-http://192.168.1.2:6878/ace/getstream?id=ccb9a364ff4947157deb5e455d2ae5d49266d07a&.mp4
 #EXTINF:-1 group-title="regional" tvg-name="RTL_2_HD_[DE]" tvg-logo="RTL 2 HD [DE].png",RTL 2 HD [DE]
 http://192.168.1.2:6878/ace/getstream?id=ece97e99e4272351c3656922509b138c760858de&.mp4
 #EXTINF:-1 group-title="regional" tvg-name="RTL_Crime_[DE]" tvg-logo="RTL Crime [DE].png",RTL Crime [DE]
@@ -718,10 +716,14 @@ http://192.168.1.2:6878/ace/getstream?id=2b5eeabe7f7495f83608b15686cc83765e2dcc3
 http://192.168.1.2:6878/ace/getstream?id=34c1fa7c1f94f22c9afc0bb79e563bbb4f87a450&.mp4
 #EXTINF:-1 group-title="regional" tvg-name="RTL_UP_[DE]" tvg-logo="RTL UP [DE].png",RTL UP [DE]
 http://192.168.1.2:6878/ace/getstream?id=e22dbfca8357e8026d2a273c610f14c2645e955a&.mp4
-#EXTINF:-1 group-title="regional" tvg-name="RTL+_SPORT_EVENT_5_[DE]" tvg-logo="RTL+ SPORT EVENT 5 [DE].png",RTL+ SPORT EVENT 5 [DE]
-http://192.168.1.2:6878/ace/getstream?id=81284e9a279ee23cbc4a7400bd9531f127d20fe5&.mp4
+#EXTINF:-1 group-title="regional" tvg-name="RTL+_SPORT_EVENT_1_[DE]" tvg-logo="RTL+ SPORT EVENT 1 [DE].png",RTL+ SPORT EVENT 1 [DE]
+http://192.168.1.2:6878/ace/getstream?id=a7319ebd54cb1db9a9db1574929ca8d305a323d3&.mp4
+#EXTINF:-1 group-title="regional" tvg-name="RTL+_SPORT_EVENT_2_[DE]" tvg-logo="RTL+ SPORT EVENT 2 [DE].png",RTL+ SPORT EVENT 2 [DE]
+http://192.168.1.2:6878/ace/getstream?id=e360a96fb4bbe1cb8a7862a6514c4c284eeec466&.mp4
 #EXTINF:-1 group-title="regional" tvg-name="RTL+_SPORT_EVENT_6_[DE]" tvg-logo="RTL+ SPORT EVENT 6 [DE].png",RTL+ SPORT EVENT 6 [DE]
 http://192.168.1.2:6878/ace/getstream?id=c065ab169f75ced1d34fbcab6b84a5fa4ca73e30&.mp4
+#EXTINF:-1 group-title="regional" tvg-name="RTL+_SPORT_EVENT_7_[DE]" tvg-logo="RTL+ SPORT EVENT 7 [DE].png",RTL+ SPORT EVENT 7 [DE]
+http://192.168.1.2:6878/ace/getstream?id=eec3f8107e008cec3679f76e078deeefd1348a3e&.mp4
 #EXTINF:-1 group-title="regional" tvg-name="Romance_TV_[DE]" tvg-logo="Romance TV [DE].png",Romance TV [DE]
 http://192.168.1.2:6878/ace/getstream?id=ef3fd5fc5d6d15b2875fc5c3204710dd848ffcc6&.mp4
 #EXTINF:-1 group-title="regional" tvg-name="Rtl_4K_[DE]" tvg-logo="Rtl 4K [DE].png",Rtl 4K [DE]
@@ -952,6 +954,8 @@ http://192.168.1.2:6878/ace/getstream?id=caa3dad746d80a887e8a259f1c7c2eead749094
 http://192.168.1.2:6878/ace/getstream?id=da27959a3e9ee97647df5aadd056021099e2d845&.mp4
 #EXTINF:-1 group-title="sport" tvg-name="AMAZON_PRIME_VIDEO_1_HD_[BE]" tvg-logo="AMAZON PRIME VIDEO 1 HD [BE].png",AMAZON PRIME VIDEO 1 HD [BE]
 http://192.168.1.2:6878/ace/getstream?id=5323ccadb659f7d3cb5fa2e5835c5af362e144d6&.mp4
+#EXTINF:-1 group-title="sport" tvg-name="AMAZON_PRIME_VIDEO_2_HD_[BE]" tvg-logo="AMAZON PRIME VIDEO 2 HD [BE].png",AMAZON PRIME VIDEO 2 HD [BE]
+http://192.168.1.2:6878/ace/getstream?id=2926e34c63d83764f9c6671da53397d55041b4ea&.mp4
 #EXTINF:-1 group-title="sport" tvg-name="AMAZON_PRIME_VIDEO_3_HD_[BE]" tvg-logo="AMAZON PRIME VIDEO 3 HD [BE].png",AMAZON PRIME VIDEO 3 HD [BE]
 http://192.168.1.2:6878/ace/getstream?id=7b979c38e2565ea0ce4c6ec3c13f6edf05b0c08c&.mp4
 #EXTINF:-1 group-title="sport" tvg-name="AMAZON_PRIME_VIDEO_4_HD_[BE]" tvg-logo="AMAZON PRIME VIDEO 4 HD [BE].png",AMAZON PRIME VIDEO 4 HD [BE]
@@ -1016,8 +1020,12 @@ http://192.168.1.2:6878/ace/getstream?id=c811cde690d467a2e45d3c263c4f0960a3933d1
 http://192.168.1.2:6878/ace/getstream?id=49b734a5a3365674480089264be00ae28fabb640&.mp4
 #EXTINF:-1 group-title="sport" tvg-name="M-1_Global_[RU]" tvg-logo="M-1 Global [RU].png",M-1 Global [RU]
 http://192.168.1.2:6878/ace/getstream?id=a7e4499c869037073c97deb47a50d1e7090b1c04&.mp4
+#EXTINF:-1 group-title="sport" tvg-name="NBA_1_[US]" tvg-logo="NBA 1 [US].png",NBA 1 [US]
+http://192.168.1.2:6878/ace/getstream?id=39db49bc89dcc3c8797566231f869dca57f1a47e&.mp4
 #EXTINF:-1 group-title="sport" tvg-name="NBA_TV_[US]" tvg-logo="NBA TV [US].png",NBA TV [US]
 http://192.168.1.2:6878/ace/getstream?id=e72d03fb9694164317260f684470be9ab781ed95&.mp4
+#EXTINF:-1 group-title="sport" tvg-name="NHL_00_[US]" tvg-logo="NHL 00 [US].png",NHL 00 [US]
+http://192.168.1.2:6878/ace/getstream?id=c270a69e8cfe0e1437f78450c24f84e3849fb38f&.mp4
 #EXTINF:-1 group-title="sport" tvg-name="Premier_Sports_1_[UK]" tvg-logo="Premier Sports 1 [UK].png",Premier Sports 1 [UK]
 http://192.168.1.2:6878/ace/getstream?id=75a56863b6fe0407ad4305b4d7ee5643c3923565&.mp4
 #EXTINF:-1 group-title="sport" tvg-name="Premier_Sports_2_[UK]" tvg-logo="Premier Sports 2 [UK].png",Premier Sports 2 [UK]
