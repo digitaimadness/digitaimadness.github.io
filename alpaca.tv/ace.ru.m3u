@@ -28,8 +28,6 @@ http://192.168.1.7:6878/ace/getstream?id=b5e4d600404702a7d50e01e64f82ea1d26b68f6
 http://192.168.1.7:6878/ace/getstream?id=5347a5417c376ac10cdf9c1a3a26eadbe76c280a&.mp4
 #EXTINF:-1 group-title="educational" tvg-name="National_Geographic_HD_[RU]" tvg-logo="National Geographic HD [RU].png",National Geographic HD [RU]
 http://192.168.1.7:6878/ace/getstream?id=3a08c5a973e162429910f441bf8aa45b24d667e0&.mp4
-#EXTINF:-1 group-title="educational" tvg-name="Travel_Channel_HD_[RU]" tvg-logo="Travel Channel HD [RU].png",Travel Channel HD [RU]
-http://192.168.1.7:6878/ace/getstream?id=48566a80593d54be5543583173fd520ce675d5b2&.mp4
 #EXTINF:-1 group-title="educational" tvg-name="Travel+Adventure_HD_[RU]" tvg-logo="Travel+Adventure HD [RU].png",Travel+Adventure HD [RU]
 http://192.168.1.7:6878/ace/getstream?id=6975d82ffdae1186dcc78506011550a81e0c9cb9&.mp4
 #EXTINF:-1 group-title="educational" tvg-name="Viasat_Explore_[RU]" tvg-logo="Viasat Explore [RU].png",Viasat Explore [RU]
@@ -268,6 +266,8 @@ http://192.168.1.7:6878/ace/getstream?id=69f02544ef5a6029b4ac7b34a7af5616437c64e
 http://192.168.1.7:6878/ace/getstream?id=b2314014f5b3c51ed75dc5066260b5134fa4d5a6&.mp4
 #EXTINF:-1 group-title="movies" tvg-name="Киноджем_1_HD_[RU]" tvg-logo="Киноджем 1 HD [RU].png",Киноджем 1 HD [RU]
 http://192.168.1.7:6878/ace/getstream?id=6f59144864d644ee3f53fddef7db2c2f69255c2e&.mp4
+#EXTINF:-1 group-title="movies" tvg-name="Кинозал_1_[RU]" tvg-logo="Кинозал 1 [RU].png",Кинозал 1 [RU]
+http://192.168.1.7:6878/ace/getstream?id=6c6849a17243f967d0c6f04323af9dfde161c3f2&.mp4
 #EXTINF:-1 group-title="movies" tvg-name="Кинокомедия_[RU]" tvg-logo="Кинокомедия [RU].png",Кинокомедия [RU]
 http://192.168.1.7:6878/ace/getstream?id=dfb83e3ff3c570ba7346641c827d89bd472a18a2&.mp4
 #EXTINF:-1 group-title="movies" tvg-name="Киномикс_[RU]" tvg-logo="Киномикс [RU].png",Киномикс [RU]
@@ -388,8 +388,6 @@ http://192.168.1.7:6878/ace/getstream?id=595a79d2a7ea11d033bf09c0515f870d419e4a4
 http://192.168.1.7:6878/ace/getstream?id=9c72c5a37a3adb76942bc530fbb9ed951bd98fde&.mp4
 #EXTINF:-1 group-title="regional" tvg-name="AXNSpinHD_[PL]" tvg-logo="AXNSpinHD [PL].png",AXNSpinHD [PL]
 http://192.168.1.7:6878/ace/getstream?id=3e247f41a97526034710d315e2ea5c0a80088e62&.mp4
-#EXTINF:-1 group-title="regional" tvg-name="Active_Family_[PL]" tvg-logo="Active Family [PL].png",Active Family [PL]
-http://192.168.1.7:6878/ace/getstream?id=552b300fe6a9d641982791b3e1a09f33a04ada29&.mp4
 #EXTINF:-1 group-title="regional" tvg-name="Adventure_[PL]" tvg-logo="Adventure [PL].png",Adventure [PL]
 http://192.168.1.7:6878/ace/getstream?id=b42612f5449f34193c9ae2fc8b442cd40f196b60&.mp4
 #EXTINF:-1 group-title="regional" tvg-name="Ale_Kino+_HD_[PL]" tvg-logo="Ale Kino+ HD [PL].png",Ale Kino+ HD [PL]
@@ -702,8 +700,6 @@ http://192.168.1.7:6878/ace/getstream?id=92b6ba09dae4bbb8a67a405125d08ca8d15380e
 http://192.168.1.7:6878/ace/getstream?id=0f40f5793250117fbc0dc7a824cdcd531a8de41c&.mp4
 #EXTINF:-1 group-title="regional" tvg-name="ProSieben_Maxx_HD_[DE]" tvg-logo="ProSieben Maxx HD [DE].png",ProSieben Maxx HD [DE]
 http://192.168.1.7:6878/ace/getstream?id=40d73c46051360ce2ba7b329725440dc74d485f2&.mp4
-#EXTINF:-1 group-title="regional" tvg-name="ProSiebenSat.1_4k_[DE]" tvg-logo="ProSiebenSat.1 4k [DE].png",ProSiebenSat.1 4k [DE]
-http://192.168.1.7:6878/ace/getstream?id=ccb9a364ff4947157deb5e455d2ae5d49266d07a&.mp4
 #EXTINF:-1 group-title="regional" tvg-name="RTL_2_HD_[DE]" tvg-logo="RTL 2 HD [DE].png",RTL 2 HD [DE]
 http://192.168.1.7:6878/ace/getstream?id=ece97e99e4272351c3656922509b138c760858de&.mp4
 #EXTINF:-1 group-title="regional" tvg-name="RTL_Crime_[DE]" tvg-logo="RTL Crime [DE].png",RTL Crime [DE]
@@ -732,8 +728,6 @@ http://192.168.1.7:6878/ace/getstream?id=c065ab169f75ced1d34fbcab6b84a5fa4ca73e3
 http://192.168.1.7:6878/ace/getstream?id=eec3f8107e008cec3679f76e078deeefd1348a3e&.mp4
 #EXTINF:-1 group-title="regional" tvg-name="Romance_TV_[DE]" tvg-logo="Romance TV [DE].png",Romance TV [DE]
 http://192.168.1.7:6878/ace/getstream?id=ef3fd5fc5d6d15b2875fc5c3204710dd848ffcc6&.mp4
-#EXTINF:-1 group-title="regional" tvg-name="Rtl_4K_[DE]" tvg-logo="Rtl 4K [DE].png",Rtl 4K [DE]
-http://192.168.1.7:6878/ace/getstream?id=45ed51e89ea0bd4d2ced6640a5ef4b3524a07744&.mp4
 #EXTINF:-1 group-title="regional" tvg-name="Russian_Extreme_Ultra_[RU]" tvg-logo="Russian Extreme Ultra [RU].png",Russian Extreme Ultra [RU]
 http://192.168.1.7:6878/ace/getstream?id=9214a597a38ed669aba1fe73351a580b1a77ce6e&.mp4
 #EXTINF:-1 group-title="regional" tvg-name="SAT1_GOLD_[DE]" tvg-logo="SAT1 GOLD [DE].png",SAT1 GOLD [DE]
@@ -890,8 +884,6 @@ http://192.168.1.7:6878/ace/getstream?id=38efc26a90d79b2d8c70024ab13631829292764
 http://192.168.1.7:6878/ace/getstream?id=7a8cf88f62f612d7741d5bae2d2be94573f1ca1b&.mp4
 #EXTINF:-1 group-title="regional" tvg-name="Travel_Channel_[PL]" tvg-logo="Travel Channel [PL].png",Travel Channel [PL]
 http://192.168.1.7:6878/ace/getstream?id=70a711891dcdf1aaf7a39788a55bc5f82505eea8&.mp4
-#EXTINF:-1 group-title="regional" tvg-name="UHD1_[DE]" tvg-logo="UHD1 [DE].png",UHD1 [DE]
-http://192.168.1.7:6878/ace/getstream?id=70a2ac1aaff849c5e93dffd709cfb8637384c8b2&.mp4
 #EXTINF:-1 group-title="regional" tvg-name="Ultra_HD_Cinema_[RU]" tvg-logo="Ultra HD Cinema [RU].png",Ultra HD Cinema [RU]
 http://192.168.1.7:6878/ace/getstream?id=6c76dccd15ff935fb1442223529d1aecc8f515d8&.mp4
 #EXTINF:-1 group-title="regional" tvg-name="Universal_TV_HD_[DE]" tvg-logo="Universal TV HD [DE].png",Universal TV HD [DE]
@@ -976,8 +968,6 @@ http://192.168.1.7:6878/ace/getstream?id=caa3dad746d80a887e8a259f1c7c2eead749094
 http://192.168.1.7:6878/ace/getstream?id=da27959a3e9ee97647df5aadd056021099e2d845&.mp4
 #EXTINF:-1 group-title="sport" tvg-name="AMAZON_PRIME_VIDEO_1_HD_[BE]" tvg-logo="AMAZON PRIME VIDEO 1 HD [BE].png",AMAZON PRIME VIDEO 1 HD [BE]
 http://192.168.1.7:6878/ace/getstream?id=5323ccadb659f7d3cb5fa2e5835c5af362e144d6&.mp4
-#EXTINF:-1 group-title="sport" tvg-name="AMAZON_PRIME_VIDEO_2_HD_[BE]" tvg-logo="AMAZON PRIME VIDEO 2 HD [BE].png",AMAZON PRIME VIDEO 2 HD [BE]
-http://192.168.1.7:6878/ace/getstream?id=2926e34c63d83764f9c6671da53397d55041b4ea&.mp4
 #EXTINF:-1 group-title="sport" tvg-name="AMAZON_PRIME_VIDEO_3_HD_[BE]" tvg-logo="AMAZON PRIME VIDEO 3 HD [BE].png",AMAZON PRIME VIDEO 3 HD [BE]
 http://192.168.1.7:6878/ace/getstream?id=7b979c38e2565ea0ce4c6ec3c13f6edf05b0c08c&.mp4
 #EXTINF:-1 group-title="sport" tvg-name="AMAZON_PRIME_VIDEO_4_HD_[BE]" tvg-logo="AMAZON PRIME VIDEO 4 HD [BE].png",AMAZON PRIME VIDEO 4 HD [BE]
@@ -988,8 +978,6 @@ http://192.168.1.7:6878/ace/getstream?id=d3634268718c6e52cde4a34d0e75cffef26c1ba
 http://192.168.1.7:6878/ace/getstream?id=26e31f091414fb036917a255b4adaf12b2f3da5b&.mp4
 #EXTINF:-1 group-title="sport" tvg-name="AMAZON_PRIME_VIDEO_7_HD_[BE]" tvg-logo="AMAZON PRIME VIDEO 7 HD [BE].png",AMAZON PRIME VIDEO 7 HD [BE]
 http://192.168.1.7:6878/ace/getstream?id=160b4b508a11f8c8b5c6e0e62ac04a437e00bb67&.mp4
-#EXTINF:-1 group-title="sport" tvg-name="AMAZON_PRIME_VIDEO_8_HD_[BE]" tvg-logo="AMAZON PRIME VIDEO 8 HD [BE].png",AMAZON PRIME VIDEO 8 HD [BE]
-http://192.168.1.7:6878/ace/getstream?id=3a21b411e9b764efefc0c2166ca07f4655b3d31c&.mp4
 #EXTINF:-1 group-title="sport" tvg-name="BT_Sport_/_ESPN_[UK]" tvg-logo="BT Sport / ESPN [UK].png",BT Sport / ESPN [UK]
 http://192.168.1.7:6878/ace/getstream?id=fc5089d8e1519872fdf951779ccbca913acc9bce&.mp4
 #EXTINF:-1 group-title="sport" tvg-name="BT_Sport_1_[UK]" tvg-logo="BT Sport 1 [UK].png",BT Sport 1 [UK]
@@ -1104,6 +1092,8 @@ http://192.168.1.7:6878/ace/getstream?id=ef9c77bd94783448b8edb552109f5f15b2bd82d
 http://192.168.1.7:6878/ace/getstream?id=a203f6b935a8ad8659c4c76c1d9c13afa6368ef2&.mp4
 #EXTINF:-1 group-title="sport" tvg-name="Матч!_Футбол_1_(_original_)_[RU]" tvg-logo="Матч! Футбол 1 ( original ) [RU].png",Матч! Футбол 1 ( original ) [RU]
 http://192.168.1.7:6878/ace/getstream?id=b28db77c5084da7993395d77df96c30bb134f0a9&.mp4
+#EXTINF:-1 group-title="sport" tvg-name="Матч!_Футбол_2_(_original_)_[RU]" tvg-logo="Матч! Футбол 2 ( original ) [RU].png",Матч! Футбол 2 ( original ) [RU]
+http://192.168.1.7:6878/ace/getstream?id=ffbf8c687c788d9a1a7c651e24802ee773ff3f04&.mp4
 #EXTINF:-1 group-title="sport" tvg-name="Матч!_Футбол_3_(_original_)_[RU]" tvg-logo="Матч! Футбол 3 ( original ) [RU].png",Матч! Футбол 3 ( original ) [RU]
 http://192.168.1.7:6878/ace/getstream?id=b6baa046075d82da300fc1b16de96067a8b9540e&.mp4
 #EXTINF:-1 group-title="sport" tvg-name="Мир_Баскетбола_[RU]" tvg-logo="Мир Баскетбола [RU].png",Мир Баскетбола [RU]
